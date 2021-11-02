@@ -19,7 +19,6 @@ const int second_btn_for_btm = A1; //10, 140 degree
 const int ctl_mid = A2;
 const int ctl_hand = A3;
 
-
 void setup() {
   Serial.begin(115200);
   Serial.println("SETUP"); 
